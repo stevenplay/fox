@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal Fox Channel (Argentina)">
+    <display-name lang="es">Cine TV: Fox Channel Full HD (CO)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210209002400 -0600" stop="20210209004700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209004700 -0600" stop="20210209011200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209011200 -0600" stop="20210209013600 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209013600 -0600" stop="20210209020000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209020000 -0600" stop="20210209052700 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Titanic</title>
+  </programme>
+  <programme start="20210209052700 -0600" stop="20210209055200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209055200 -0600" stop="20210209061400 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209061400 -0600" stop="20210209081600 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Duro de matar 3: La venganza</title>
+  </programme>
+  <programme start="20210209081600 -0600" stop="20210209101200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">La verdad oculta</title>
+  </programme>
+  <programme start="20210209101200 -0600" stop="20210209110000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Cumbia ninja</title>
+  </programme>
+  <programme start="20210209110000 -0600" stop="20210209113000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210209113000 -0600" stop="20210209120000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210209120000 -0600" stop="20210209123000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210209123000 -0600" stop="20210209130000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210209130000 -0600" stop="20210209133500 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210209133500 -0600" stop="20210209140000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210209140000 -0600" stop="20210209164200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Juegos del Hambre</title>
+  </programme>
+  <programme start="20210209164200 -0600" stop="20210209170200 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209170200 -0600" stop="20210209172300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209172300 -0600" stop="20210209175300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Fresh Off the Boat</title>
+  </programme>
+  <programme start="20210209175300 -0600" stop="20210209182300 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Fresh Off the Boat</title>
+  </programme>
+  <programme start="20210209182300 -0600" stop="20210209202000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Una gran esperanza</title>
+  </programme>
+  <programme start="20210209202000 -0600" stop="20210209204000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209204000 -0600" stop="20210209210000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209210000 -0600" stop="20210209212900 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210209212900 -0600" stop="20210209235500 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">El Planeta de los Simios: La Guerra</title>
+  </programme>
+  <programme start="20210209235500 -0600" stop="20210210002000 -0600" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+</tv>
